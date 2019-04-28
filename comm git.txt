@@ -1,0 +1,7 @@
+git clone mas direccion clona el repositorio.
+se crea el archivo en nano
+git add agrega la nueva version
+git commit -m "nueva version"
+git puch origin master (envia la nueva version a la original.)
+
+numero 21-4-7
